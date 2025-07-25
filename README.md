@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Full-Stack+Developer+with+1%2B+years+MERN+experience;Currently+pursuing+final+year+IT+at+SLIIT;Specializing+in+scalable+web+apps+%26+secure+APIs" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Full-Stack+Developer+with+1%2B+years+MERN+experience;Currently+pursuing+final+year+IT+at+SLIIT;Specializing+in+scalable+web+apps+%26+secure+APIs" alt="About Me Animation" />
 </div>
 
 <div align="center">
